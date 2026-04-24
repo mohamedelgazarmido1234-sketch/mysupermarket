@@ -1,0 +1,76 @@
+header{
+       border: 2px solid black;
+    width: 1250px;
+    margin: 0 auto;
+    height: 150px;
+    margin: 10px 5px 0 5px;
+}
+#logo{
+    float: left;
+}
+#search{ 
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#search from input{ height: 35px;}
+#Go{
+    background-color: blue;
+    color:white;
+    width:50px;
+    font-weight: bold;
+}
+#go:hover{
+    background-color: crimson;
+    font-family: cursive;
+}
+#cart{
+    float:right;
+    margin-top: 20px;
+}
+nav{
+            background-color: orange;
+            margin: 5px;
+        }
+nav ul{
+            list-style-type: none;
+            text-align: center;
+            margin: 0;
+        }
+nav ul li{
+            display: inline;
+        }
+nav ul li a{
+            display: inline-block;
+             width: 130px;
+            color: black;
+            text-decoration: none;
+            padding: 6px;
+        }
+nav ul li a:hover{
+            background-color: blue;
+            color: white;}
+#leftform{
+    float:left;
+    margin-left: 10px;
+}
+#rightform{
+    float: left;
+    margin-left: 10px;
+}
+#x table{
+    margin: auto;
+}
+table tr td{
+    text-align: center;
+    border: 2px solid black;
+}
+-price{
+color:steelblue;
+font-weight: bold;
+font-size: 17px;
+}
+#welcometext h1{
+    text-align: center;
+    color: blue;
+}
